@@ -1,8 +1,8 @@
 {
-  "linux-x64-prod": {
-    "readme": "Second release",
-    "update": "https://github.com/agama-github/agama/releases/download/linux-x64-prod-v1.1.0/electron-quick-start-1.1.0-x86_64.AppImage",
-    "install": "https://github.com/agama-github/agama/releases/download/linux-x64-prod-v1.1.0/electron-quick-start-1.1.0-x86_64.AppImage",
+  "darwin-x64-prod": {
+    "readme": "Second Release",
+    "update": "https://github.com/agama-github/agama/releases/download/darwin-x64-prod-v1.1.0/release.json",
+    "install": "https://github.com/agama-github/agama/releases/download/darwin-x64-prod-v1.1.0/agama-1.1.0.dmg",
     "version": "1.1.0"
   }
 }
